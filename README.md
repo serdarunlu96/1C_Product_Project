@@ -1,4 +1,4 @@
-# 1cEnterpriseProjects
+# 1C Enterprise Edition Projects
 
 Sistem Gereklilikleri
 
