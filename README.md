@@ -5,6 +5,7 @@ I. Sistem Gereklilikleri
 Tavsiye edilen donanım gerekliliklerini tanımlamaktadır:
 
    Veri tabanı ve ağ sunucuları
+  
    1C: Enterprise müşterisi
   
 A. 1C:Drive Kurulum Adımları
