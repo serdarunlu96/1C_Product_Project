@@ -1,14 +1,14 @@
 # 1cEnterpriseProjects
 
-I. Sistem Gereklilikleri
+Sistem Gereklilikleri
 
-Tavsiye edilen donanım gerekliliklerini tanımlamaktadır:
+  Tavsiye edilen donanım gerekliliklerini tanımlamaktadır:
 
-   Veri tabanı ve ağ sunucuları
+     Veri tabanı ve ağ sunucuları
   
-   1C: Enterprise müşterisi
+     1C: Enterprise müşterisi
   
-A. 1C:Drive Kurulum Adımları
+1C:Drive Kurulum Adımları
 
   1C:Drive aşağıdaki bileşenleri içeren bir yazılım aracıdır:
     -1C:Enterprise
